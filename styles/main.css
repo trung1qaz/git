@@ -1,0 +1,50 @@
+header{
+    background:gray;
+    color: white;
+}
+h1{
+    border: solid;
+    background-color:cyan;
+    box-shadow: 10px 10px;
+    color:black;
+    padding:5px;
+}
+
+
+nav ul{
+    margin:0px;
+}
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding-right:15px;
+    
+}   
+nav ul li a {
+    color:white;
+    border:solid;
+    border-color:blue;
+    background:black;
+    padding:5px 20px;
+}
+.col{
+    background:whites;
+    padding:0px;
+    margin:1%;
+    float:left;
+    width:30%;
+    
+}
+footer{
+    clear:both;
+}
+img{
+    height:460px;
+}
+.open{
+    border: solid; 
+    background-color:lightgrey; 
+    box-shadow: 10px 10px; 
+    color:black;
+    padding:30px;
+}
